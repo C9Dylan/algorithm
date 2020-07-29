@@ -2,6 +2,7 @@
 .idea
 out
 /*/.bundle
+output/
 
 # Ignore the default SQLite database.
 /*/db/*.sqlite3
